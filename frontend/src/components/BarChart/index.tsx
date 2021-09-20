@@ -1,5 +1,4 @@
 import axios from "axios";
-import { type } from "os";
 import { useEffect, useState } from "react";
 
 import ReactApexChart from "react-apexcharts";
